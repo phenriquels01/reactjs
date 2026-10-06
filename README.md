@@ -380,7 +380,7 @@ export default function ListaUsuarios() {
 |------|--------|--------|
 | [Gabriela Almeida] | [@gabriela-data](https://github.com/usuario1](https://github.com/gabriela-data)) | Desenvolvedor(a) Frontend |
 | [Davi Conceição] | [@Davi-2405](https://github.com/usuario2](https://github.com/Davi-2405)) | Desenvolvedor(a) Frontend |
-| [Nome 3] | [@usuario3](https://github.com/usuario3) | Desenvolvedor(a) Frontend |
+| [Pedro Siqueira] | [@phenriquels01](https://github.com/phenriquels01) | Desenvolvedor(a) Frontend |
 
 ### Grupo de Backend (parceiro)
 | Nome | GitHub |
